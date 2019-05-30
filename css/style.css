@@ -1,0 +1,81 @@
+html{
+scroll-behavior:smooth;
+}
+
+html,
+body,
+header,
+.wrapper{
+    height:100% ;
+}
+
+.wrapper{
+    background:url("../img/cover.jpg")no-repeat center center fixed;
+    background-size: cover;
+    -webkit-box-size:cover;
+    -webkit-box-size:cover;
+    -webkit-box-size:cover;
+}
+
+
+
+/*--navigation menu css--*/
+
+
+.navbar{
+background:burlywood!important;
+   
+}
+
+.navbar-nav li a {
+    color: aliceblue;
+    font-size: 1.25rem;
+}
+
+.nav-item{
+    font-size: 1.4rem;
+    padding-right: 20px;
+}
+.textbox{
+    padding-top:220px;
+    margin-bottom: auto;
+   
+}
+
+.textbox h3{
+    font-weight: bold;
+    font-size:50px;
+    color: aliceblue;
+}
+i{
+    color:darkorange;
+}
+
+#copyright{
+    background: burlywood;
+    color: white;
+}
+
+.textbox .btn {
+    margin-left:auto;
+    margin-right:auto;
+   color: beige;
+   margin-top: 5px;
+}
+
+.textbox i {
+    padding: 5px;
+    color: azure;
+}
+
+.teal-text .btn {
+    margin-left:450px;
+   color: beige;
+   margin-top: 5px;
+}
+
+.teal-text i {
+    padding: 5px;
+    color: azure;
+}
+
